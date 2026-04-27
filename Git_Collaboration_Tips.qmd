@@ -22,7 +22,7 @@ Repeat>
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+Blah Blah Blah Blah
 
 ### Merge Conflict: Collaborator Resolves
 
