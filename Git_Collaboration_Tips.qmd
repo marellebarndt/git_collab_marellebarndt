@@ -23,6 +23,7 @@ Repeat>
 ### Merge Conflict: Owner Resolves
 
 Marelle is adding some merge conflict tips 
+Blah Blah Blah Blah
 
 ### Merge Conflict: Collaborator Resolves
 
