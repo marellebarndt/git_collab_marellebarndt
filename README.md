@@ -1,0 +1,2 @@
+# git_collab_marellebarndt
+Collaborating without conflicts
