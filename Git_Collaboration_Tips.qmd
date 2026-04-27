@@ -5,9 +5,11 @@ format: html
 
 ## Git Collaboration Tips
 
-### Tips: <owner's name here>
+### Tips: <Marelle Arndt>
 
-<Owner adds their tips here!>
+Remain calm!
+Have fun!
+Be cool!
 
 ### Tips: <collaborator's name here>
 
