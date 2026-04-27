@@ -9,9 +9,12 @@ format: html
 
 <Owner adds their tips here!>
 
-### Tips: <collaborator's name here>
+### Tips: <Vanessa Mora>
 
-<Collaborator adds their tips here!>
+<Wake up
+Github
+Cry 
+Repeat>
 
 ## How to Create a Merge Conflict 
 
